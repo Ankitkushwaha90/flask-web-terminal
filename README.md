@@ -13,7 +13,7 @@ A simple web-based terminal built with Flask, allowing users to execute shell co
 
 ### 1. Clone the repository:
 ```sh
-git clone https://github.com/yourusername/flask-web-terminal.git
+git clone https://github.com/ankitkushwaha90/flask-web-terminal.git
 cd flask-web-terminal
 ```
 
